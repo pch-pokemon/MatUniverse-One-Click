@@ -2,7 +2,6 @@
 ### One-Click PDF Processing & Intelligent Q&A System for Materials Science Knowledge
 ---
 ## 📖 Project Introduction（项目介绍）
-
 ✨ MatUniverse One-Click（一键材料知识宇宙）是一款专为材料科学领域量身打造的智能知识管理与问答系统，核心直击材料类PDF文献「碎片化、难整合、难检索」的行业痛点
 
 ✅ 用户仅需一键上传材料相关PDF文献，系统即可自动完成「文献清洗→内容分割→向量嵌入→知识库构建」全流程
