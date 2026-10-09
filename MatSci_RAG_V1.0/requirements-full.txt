@@ -1,0 +1,16 @@
+-r requirements-ui.txt
+python-dotenv
+pdfdeal
+langchain-core
+langchain-community
+langchain-huggingface
+transformers
+sentence-transformers
+torch
+faiss-cpu
+spacy
+scispacy
+zhipuai
+# Install the compatible en_core_sci_sm model separately.
+# GPU users should install a PyTorch build matching their CUDA environment.
+# A complete resolved backend environment was not available for validation here.

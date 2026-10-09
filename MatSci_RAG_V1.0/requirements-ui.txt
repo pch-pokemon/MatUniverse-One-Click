@@ -1,0 +1,4 @@
+# Interface and the text cleaning / structured parsing stages.
+# Tested UI version: Streamlit 1.65.0 on Python 3.12.
+streamlit==1.65.0
+beautifulsoup4>=4.12,<5
